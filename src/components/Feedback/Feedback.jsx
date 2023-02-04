@@ -29,9 +29,6 @@ function Feedback() {
       default:
         break;
     }
-    // this.setState(prevState => {
-    //   return { [name]: prevState[name] + 1 };
-    // });
   };
 
   const countTotalFeedback = () => {
